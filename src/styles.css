@@ -8,25 +8,25 @@
  .sheet{bottom:112px}
  .numbered p{padding:14px 0}
  .numbered p+p{margin-top:0}
- #slide-14 .sheet>h2{margin-bottom:18px}
- #slide-14 .comparison th,#slide-14 .comparison td{height:54px;padding:9px 16px}
- #slide-14 .actions{margin-top:12px}
- #slide-17 .sort-item{padding:10px 0;gap:5px 10px}
- #slide-17 .sort-feedback{font-size:15px;line-height:1.2;min-height:18px}
- #slide-17 .sort-list{gap:10px 40px}
- #slide-17 .actions{margin-top:12px}
- #slide-17 .feedback{margin-top:10px;font-size:20px}
- #slide-18 .case{padding-top:18px}
- #slide-18 .case>p{min-height:125px;margin-top:14px}
- #slide-18 .case p.case-feedback{min-height:44px;margin-top:14px}
- #slide-18 .choice-row{margin-top:14px}
- #slide-18 .case-grid{margin-bottom:10px}
+ #slide-12 .sheet>h2{margin-bottom:18px}
+ #slide-12 .comparison th,#slide-12 .comparison td{height:54px;padding:9px 16px}
+ #slide-12 .actions{margin-top:12px}
+ #slide-15 .sort-item{padding:10px 0;gap:5px 10px}
+ #slide-15 .sort-feedback{font-size:15px;line-height:1.2;min-height:18px}
+ #slide-15 .sort-list{gap:10px 40px}
+ #slide-15 .actions{margin-top:12px}
+ #slide-15 .feedback{margin-top:10px;font-size:20px}
+ #slide-16 .case{padding-top:18px}
+ #slide-16 .case>p{min-height:125px;margin-top:14px}
+ #slide-16 .case p.case-feedback{min-height:44px;margin-top:14px}
+ #slide-16 .choice-row{margin-top:14px}
+ #slide-16 .case-grid{margin-bottom:10px}
 }
 @media(min-width:1700px){
  .sheet{bottom:130px}
- #slide-14 .comparison th,#slide-14 .comparison td{height:75px;padding:15px 20px}
- #slide-17 .sort-item{padding:20px 0}
- #slide-17 .sort-feedback{font-size:20px;min-height:24px}
- #slide-18 .case>p{min-height:170px}
+ #slide-12 .comparison th,#slide-12 .comparison td{height:75px;padding:15px 20px}
+ #slide-15 .sort-item{padding:20px 0}
+ #slide-15 .sort-feedback{font-size:20px;min-height:24px}
+ #slide-16 .case>p{min-height:170px}
 }
-@media(min-width:761px){.cover .copy-panel{max-height:calc(100dvh - 200px)}#slide-14 .sheet{padding-bottom:4px}}
+@media(min-width:761px){.cover .copy-panel{max-height:calc(100dvh - 200px)}#slide-12 .sheet{padding-bottom:4px}}
